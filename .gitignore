@@ -5,3 +5,4 @@ config.status
 src/.libs
 *.l[ao]
 *.slo
+*~
